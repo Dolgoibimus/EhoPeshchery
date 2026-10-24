@@ -15,6 +15,8 @@ Cave Echo ("we", "us", or "our") is a game for the Android platform: a bat flies
 
 The application does not request the INTERNET permission and is technically unable to send or receive any data over the network. The game runs fully offline.
 
+The button «Support the developer» on the «About» screen opens a payment page of the CloudTips service in your browser, and the buttons on the «My apps» screen open app pages in Google Play and RuStore. The application itself takes no part in the payment and receives no data about it or about those pages.
+
 ## 3. Permissions
 
 Cave Echo requests **no permissions at all**. The application declares an empty permission list in its manifest.
@@ -64,6 +66,8 @@ If you have any questions about this Privacy Policy, you can contact us by email
 ## 2. Отсутствие доступа в интернет
 
 Приложение не запрашивает разрешение INTERNET и технически не способно ни отправить, ни получить данные по сети. Игра работает полностью офлайн.
+
+Кнопка «Поддержать разработчика» на экране «О приложении» открывает в браузере платёжную страницу сервиса CloudTips, а кнопки на экране «Мои приложения» открывают страницы приложений в Google Play и RuStore. Само приложение в платеже не участвует и никаких данных ни о нём, ни об этих страницах не получает.
 
 ## 3. Разрешения
 
